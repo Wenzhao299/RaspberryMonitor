@@ -30,6 +30,10 @@ source env/bin/activate
 pip install pygame psutil
 ```
 
+## Screenshot
+
+![RaspberryMonitor screenshot](./screen.png)
+
 ## Usage
 
 Run directly:
